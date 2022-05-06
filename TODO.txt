@@ -1,0 +1,18 @@
+- Fixed resolution (works on both mac and windows and minimum 13" screen size)
+- Features
+    - Sort the decks based on
+        - last studied
+        - random
+    - HSK1 - HSK6
+    - Custom user select (e.g. HSK1 + HSK2)
+    - Import custom card decks (i.e. jsons)
+    - Study words instead of characters (only study words with characters that have
+    already been studied?) (after selecting a deck)
+    - Study starred characters
+
+Structure
+    app/
+        pages/
+            HomePage
+            DeckPage
+        app.py
