@@ -1,8 +1,8 @@
+import copy
 from datetime import datetime
 import json
-from tkinter.ttk import Button
 from tkinter import Frame, Label
-from pprint import pprint
+from tkinter.ttk import Button
 
 FONTS = {
     'TitleFont': ("Arial", 42),
@@ -14,21 +14,21 @@ COLORS = {
     "StarredText": "#f5cc00"
 }
 
+
 class DeckPage(Frame):
     def __init__(self, parent, deck):
         super().__init__(parent.container)
 
-        self.bind("<Right>", lambda event: self.next_card())
-        self.bind("<Left>", lambda event: self.prev_card())
+        self.bind("<Right>", lambda event: self.change_card(new_card_id=self.current_card_id+1))
+        self.bind("<Left>", lambda event: self.change_card(new_card_id=self.current_card_id-1))
         self.bind("<Up>", lambda event: self.reveal_card())
 
         self.deck = deck
-        self.tags = ["character", "word"]
 
         with open(self.deck, 'r', encoding='utf8') as f:
-            self.raw_deck_data = json.load(f)
+            self.complete_deck_data = json.load(f)
 
-        self.deck_data = self.sort_deck(self.raw_deck_data)
+        self.deck_data = self.sort_deck(self.complete_deck_data)
 
         # Center widgets horizontally
         self.grid_columnconfigure(0, weight=1)
@@ -42,6 +42,7 @@ class DeckPage(Frame):
         title_frame = Frame(self)
         card_frame = Frame(self, padx=10, pady=10, background=COLORS["DefaultBackground"], highlightthickness=1, highlightbackground='white')
         last_studied_frame = Frame(self)
+        filters_frame = Frame(self)
         buttons_frame = Frame(self, pady=10)
 
         title_frame.grid(row=0, column=0)
@@ -51,7 +52,8 @@ class DeckPage(Frame):
         card_frame.grid_rowconfigure(0, weight=1)
 
         last_studied_frame.grid(row=2, column=0)
-        buttons_frame.grid(row=3, column=0)
+        filters_frame.grid(row=3, column=0)
+        buttons_frame.grid(row=4, column=0)
 
         # Create card widgets and initialize to nothing
         self.title_label = Label(title_frame, font=FONTS['TitleFont'])
@@ -68,8 +70,13 @@ class DeckPage(Frame):
 
         self.render_card()  # initialize first card
 
-        Button(buttons_frame, text="Previous", command=self.prev_card).grid(row=0, column=0, padx=5, pady=5)
-        Button(buttons_frame, text="Next", command=self.next_card).grid(row=0, column=1, padx=5, pady=5)
+        Button(filters_frame, text="Characters Only", command=lambda: self.filter_deck(tag="character")).grid(row=0, column=0, padx=5, pady=5)
+        Button(filters_frame, text="Words Only", command=lambda: self.filter_deck(tag="word")).grid(row=0, column=1, padx=5, pady=5)
+        Button(filters_frame, text="Starred Only", command=lambda: self.filter_deck(tag="Starred")).grid(row=0, column=2, padx=5, pady=5)
+        Button(filters_frame, text="All Cards", command=lambda: self.filter_deck()).grid(row=0, column=3, padx=5, pady=5)
+
+        Button(buttons_frame, text="Previous", command=lambda: self.change_card(new_card_id=self.current_card_id-1)).grid(row=0, column=0, padx=5, pady=5)
+        Button(buttons_frame, text="Next", command=lambda: self.change_card(new_card_id=self.current_card_id+1)).grid(row=0, column=1, padx=5, pady=5)
         Button(buttons_frame, text="Reveal", command=self.reveal_card).grid(row=1, column=0, padx=5, pady=5)
         Button(buttons_frame, text="Star", command=self.star_card).grid(row=1, column=1, padx=5, pady=5)
         Button(buttons_frame, text="Home Page", command=lambda: parent.show_page(parent.pages['HomePage'])).grid(row=2, column=0, columnspan=2, pady=15)
@@ -100,32 +107,43 @@ class DeckPage(Frame):
         # Update last studied date to today
         self.deck_data[self.current_card]["LastStudied"] = datetime.today().strftime("%d/%m/%Y")
 
-    def filter_deck(self, deck, tag):
-        # Filters the deck based on the specified tag
+    def filter_deck(self, tag=None):
+        # Filters the current deck based on the specified tag and re-renders
         # Deck is a dict
-        filtered_dict = {card: deck[card] for card in deck if tag in deck[card]["Tags"]}
 
-        return filtered_dict
+        # Merge the modified deck with the complete deck (i.e. update last studied dates) before filtering
+        self.complete_deck_data |= self.deck_data
+
+        if tag == 'Starred':
+            deck_data = self.deck_data
+            filtered_dict = {card: deck_data[card] for card in deck_data if deck_data[card]["Starred"]}
+            self.deck_data = filtered_dict
+        elif tag:
+            deck_data = self.complete_deck_data
+            filtered_dict = {card: deck_data[card] for card in deck_data if tag in deck_data[card]["Tags"]}
+            self.deck_data = filtered_dict
+        else:
+            self.deck_data = self.complete_deck_data
+
+        self.deck_data = self.sort_deck(self.deck_data)
+        self.current_card_id = 0
+        self.render_card()
+        self.focus_set()
 
     def sort_deck(self, deck):
-        deck_dict = {}
+        dates_dict = {}
         for card in deck:
-            deck_dict[card] = self.days_since_date(deck[card]["LastStudied"])
-        sorted_deck = {k: deck[k]  for k, v in sorted(deck_dict.items(), key=lambda item: item[1], reverse=True)}
+            dates_dict[card] = self.days_since_date(deck[card]["LastStudied"])
+        # Deepcopy is used so that sorted_deck is not linked with input deck
+        sorted_deck = {k: copy.deepcopy(deck[k])  for k, v in sorted(dates_dict.items(), key=lambda item: item[1], reverse=True)}
 
         return sorted_deck
 
-    def next_card(self):
-        if (self.current_card_id + 1) < len(self.deck_data):
-            self.current_card_id += 1
+    def change_card(self, new_card_id):
+        if 0 <= new_card_id < len(self.deck_data):
+            self.current_card_id = new_card_id
             self.render_card()
-        self.focus_set()
-
-    def prev_card(self):
-        if (self.current_card_id - 1) >= 0:
-            self.current_card_id -= 1
-            self.render_card()
-        self.focus_set()
+            self.focus_set()
 
     def reveal_card(self):
         self.card_definition_label.configure(text=self.deck_data[self.current_card]['Definition'])
@@ -137,10 +155,10 @@ class DeckPage(Frame):
         self.focus_set()
 
     def save_deck(self):
-        # Merge the modified deck with the raw deck.
-        to_save_deck = self.raw_deck_data | self.deck_data
+        # Merge the modified deck with the complete deck (i.e. update last studied dates)
+        self.complete_deck_data |= self.deck_data
         with open(self.deck, "w") as f:
-            json.dump(to_save_deck, f, ensure_ascii=False, indent=2)
+            json.dump(self.complete_deck_data, f, ensure_ascii=False, indent=2)
 
     @staticmethod
     def days_since_date(date):
