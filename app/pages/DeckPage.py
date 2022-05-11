@@ -1,5 +1,6 @@
 from datetime import datetime
 import json
+import random
 from tkinter import Frame, Label
 from tkinter.ttk import Button
 
@@ -25,7 +26,10 @@ class DeckPage(Frame):
         self.deck = deck
 
         with open(self.deck, 'r', encoding='utf8') as f:
-            self.complete_deck_data = json.load(f)
+            try:
+                self.complete_deck_data = json.load(f)
+            except json.decoder.JSONDecodeError:
+                exit(f"{self.deck} is invalid! Check if it's a valid .JSON file.")
 
         self.deck_data = self.sort_deck(self.complete_deck_data)
 
@@ -81,6 +85,14 @@ class DeckPage(Frame):
         Button(buttons_frame, text="Home Page", command=lambda: parent.show_page(parent.pages['HomePage'])).grid(row=2, column=0, columnspan=2, pady=15)
 
     def render_card(self):
+        # If deck is empty, display "No Cards!" and clear other widgets
+        if not self.deck_data:
+            self.title_label.configure(text='')
+            self.card_label.configure(text="No Cards!")
+            self.card_definition_label.configure(text='')
+            self.last_studied_label.configure(text='')
+            return
+
         # Update card data
         self.current_card = list(self.deck_data.keys())[self.current_card_id]
         self.card_last_studied_date = self.deck_data[self.current_card]["LastStudied"]
@@ -129,14 +141,38 @@ class DeckPage(Frame):
         self.render_card()
         self.focus_set()
 
-    def sort_deck(self, deck):
-        dates_dict = {}
-        for card in deck:
-            dates_dict[card] = self.days_since_date(deck[card]["LastStudied"])
-        # Copy is used so that sorted_deck is not linked with input deck
-        sorted_deck = {k: deck[k].copy() for k, v in sorted(dates_dict.items(), key=lambda item: item[1], reverse=True)}
+    def sort_deck(self, deck, sort_method="study_date"):
+        if sort_method == "random":
+            cards = list(deck.keys())
+            random.shuffle(cards)
+            sorted_deck = {card: deck[card].copy() for card in cards}
 
-        return sorted_deck
+            return sorted_deck
+        elif sort_method == "study_date":
+            card_study_date_dict = {card: self.days_since_date(deck[card]["LastStudied"]) for card in deck}
+            # Split deck into groups of the same last studied date (e.g. {"Never": [Card1, Card2], "10/05/2022": [Card4, Card5]})
+            grouped_cards_by_study_date = {}
+            for card in card_study_date_dict:
+                date = card_study_date_dict[card]
+                if date not in grouped_cards_by_study_date:
+                    grouped_cards_by_study_date[date] = []
+                grouped_cards_by_study_date[date].append(card)
+            # Shuffle items in each group
+            for group in grouped_cards_by_study_date:
+                items = grouped_cards_by_study_date[group]
+                random.shuffle(items)
+                grouped_cards_by_study_date[group] = items
+            # Sort the deck starting with never studied cards
+            # Copy is used so that sorted_deck is not linked with input deck
+            sorted_deck = {}
+            if "Never" in grouped_cards_by_study_date:
+                never_studied_cards = grouped_cards_by_study_date.pop("Never")
+                sorted_deck |= {card: deck[card].copy() for card in never_studied_cards}
+            sorted_groups = sorted(list(grouped_cards_by_study_date.keys()), reverse=True)
+            for group in sorted_groups:
+                sorted_deck |= {card: deck[card].copy() for card in grouped_cards_by_study_date[group]}
+
+            return sorted_deck
 
     def change_card(self, new_card_id):
         if 0 <= new_card_id < len(self.deck_data):
@@ -156,13 +192,13 @@ class DeckPage(Frame):
     def save_deck(self):
         # Merge the modified deck with the complete deck (i.e. update last studied dates)
         self.complete_deck_data |= self.deck_data
-        with open(self.deck, "w") as f:
+        with open(self.deck, "w", encoding="utf8") as f:
             json.dump(self.complete_deck_data, f, ensure_ascii=False, indent=2)
 
     @staticmethod
     def days_since_date(date):
-        try:
+        if not date:  # If date is none (i.e. card never studied)
+            return "Never"
+        else:
             date = datetime.strptime(date, "%d/%m/%Y")
             return (datetime.today() - date).days
-        except TypeError:
-            return -1
