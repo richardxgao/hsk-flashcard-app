@@ -1,4 +1,3 @@
-import copy
 from datetime import datetime
 import json
 from tkinter import Frame, Label
@@ -134,8 +133,8 @@ class DeckPage(Frame):
         dates_dict = {}
         for card in deck:
             dates_dict[card] = self.days_since_date(deck[card]["LastStudied"])
-        # Deepcopy is used so that sorted_deck is not linked with input deck
-        sorted_deck = {k: copy.deepcopy(deck[k])  for k, v in sorted(dates_dict.items(), key=lambda item: item[1], reverse=True)}
+        # Copy is used so that sorted_deck is not linked with input deck
+        sorted_deck = {k: deck[k].copy() for k, v in sorted(dates_dict.items(), key=lambda item: item[1], reverse=True)}
 
         return sorted_deck
 
