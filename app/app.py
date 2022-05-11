@@ -11,8 +11,8 @@ class HSKFlashcardApp(Tk):
 
         self.title("HSK Flashcard App")
 
-        self.WIDTH, self.HEIGHT = 1100, 700
-        self.geometry(f"{self.WIDTH}x{self.HEIGHT}")
+        self.CUSTOM_WIDTH, self.CUSTOM_HEIGHT = 1100, 700
+        self.minsize(self.CUSTOM_WIDTH, self.CUSTOM_HEIGHT)
         self.place_in_center_of_screen()
 
         self.bind("<Down>", lambda event: self.exit_app())
@@ -45,9 +45,12 @@ class HSKFlashcardApp(Tk):
         self.current_page.tkraise()
         self.current_page.focus_set()
 
+    def add_page(self, page_name, frame):
+        self.pages[page_name] = frame
+
     def place_in_center_of_screen(self):
         screen_width, screen_height = self.winfo_screenwidth(), self.winfo_screenheight()
-        place_coordinates = (int((screen_width - self.WIDTH)/2), int((screen_height - self.HEIGHT)/4))
+        place_coordinates = (int((screen_width - self.CUSTOM_WIDTH)/2), int((screen_height - self.CUSTOM_HEIGHT)/4))
         self.geometry(f"+{place_coordinates[0]}+{place_coordinates[1]}")
 
     def exit_app(self):
