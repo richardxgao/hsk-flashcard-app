@@ -1,12 +1,13 @@
 from datetime import datetime
 import json
+import platform
 import random
 from tkinter import Frame, Label
 from tkinter.ttk import Button
 
 FONTS = {
     'TitleFont': ("Arial", 42),
-    'CardFont': ("Kaiti SC", 200),  # Calligraphy standard
+    'CardFont': ("Kaiti", 200) if "Windows" in platform.system() else ("Kaiti SC", 200),  # Calligraphy standard
     'DefaultFont': ("Arial", 24),
 }
 COLORS = {
