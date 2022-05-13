@@ -1,2657 +1,11 @@
 {
-  "束": {
-    "Definition": "shù - to bind, bunch, bundle, classifier for bunches",
+  "地": {
+    "Definition": "dì - ground; (particle)",
     "Tags": [
       "HSK3",
       "character"
     ],
-    "LastStudied": "08/05/2022",
-    "Starred": false
-  },
-  "自": {
-    "Definition": "zì - self",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/05/2022",
-    "Starred": false
-  },
-  "放": {
-    "Definition": "fàng - to put, to place",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/05/2022",
-    "Starred": false
-  },
-  "育": {
-    "Definition": "yù - to have children, to raise or bring up, to educate",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/05/2022",
-    "Starred": false
-  },
-  "角": {
-    "Definition": "jiǎo - angle, corner",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/05/2022",
-    "Starred": false
-  },
-  "鸟": {
-    "Definition": "niǎo - bird, CL:隻|只[zhi1],群[qun2]",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/05/2022",
-    "Starred": false
-  },
-  "行": {
-    "Definition": "xíng - all right; OK",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/05/2022",
-    "Starred": false
-  },
-  "者": {
-    "Definition": "zhě - (componnent of 或者)",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/05/2022",
-    "Starred": false
-  },
-  "把": {
-    "Definition": "bǎ - (measure word for bunches of things, and chairs)",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/05/2022",
-    "Starred": false
-  },
-  "又": {
-    "Definition": "yòu - right hand; again",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/05/2022",
-    "Starred": false
-  },
-  "业": {
-    "Definition": "yè - occupation; profession",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/05/2022",
-    "Starred": false
-  },
-  "特": {
-    "Definition": "tè - special",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/05/2022",
-    "Starred": false
-  },
-  "口": {
-    "Definition": "kǒu - mouth",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/05/2022",
-    "Starred": false
-  },
-  "感": {
-    "Definition": "gǎn - to feel; to sense",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/05/2022",
-    "Starred": false
-  },
-  "必": {
-    "Definition": "bì - certainly, must, will, necessarily",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/05/2022",
-    "Starred": false
-  },
-  "直": {
-    "Definition": "zhí - straight",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/05/2022",
-    "Starred": false
-  },
-  "马": {
-    "Definition": "mǎ - horse",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/05/2022",
-    "Starred": false
-  },
-  "议": {
-    "Definition": "yì - to comment on, to discuss, to suggest",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/05/2022",
-    "Starred": false
-  },
-  "复": {
-    "Definition": "fù - to repeat; to duplicate",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/05/2022",
-    "Starred": false
-  },
-  "乎": {
-    "Definition": "hū - because",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/05/2022",
-    "Starred": false
-  },
-  "响": {
-    "Definition": "xiǎng - sound, noisy",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/05/2022",
-    "Starred": false
-  },
-  "节": {
-    "Definition": "jié - (measure word for class periods)",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/05/2022",
-    "Starred": false
-  },
-  "段": {
-    "Definition": "duàn - paragraph, section, segment, classifier for periods of time",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/05/2022",
-    "Starred": false
-  },
-  "网": {
-    "Definition": "wǎng - net",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/05/2022",
-    "Starred": false
-  },
-  "香": {
-    "Definition": "xiāng - fragrant",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/05/2022",
-    "Starred": false
-  },
-  "草": {
-    "Definition": "cǎo - grass",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "01/01/2021",
-    "Starred": false
-  },
-  "楚": {
-    "Definition": "chǔ - clear; neat",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "01/01/2021",
-    "Starred": false
-  },
-  "康": {
-    "Definition": "kāng - healthy; affluent",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "01/01/2021",
-    "Starred": false
-  },
-  "牙": {
-    "Definition": "yá - tooth, ivory, CL:顆|颗[ke1]",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "01/01/2021",
-    "Starred": false
-  },
-  "嘴": {
-    "Definition": "zuǐ - mouth",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "01/01/2021",
-    "Starred": false
-  },
-  "夏": {
-    "Definition": "xià - summer",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "01/01/2021",
-    "Starred": false
-  },
-  "鼻": {
-    "Definition": "bí - nose",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "01/01/2021",
-    "Starred": false
-  },
-  "刷": {
-    "Definition": "shuā - to brush; to swipe",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "01/01/2021",
-    "Starred": false
-  },
-  "矮": {
-    "Definition": "ǎi - short",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "01/01/2021",
-    "Starred": false
-  },
-  "啤": {
-    "Definition": "pí - beer",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "01/01/2021",
-    "Starred": false
-  },
-  "筷": {
-    "Definition": "kuài - chopstick",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "01/01/2021",
-    "Starred": false
-  },
-  "且": {
-    "Definition": "qiě - and, just",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "02/01/2021",
-    "Starred": false
-  },
-  "图": {
-    "Definition": "tú - picture; chart; drawing",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "02/01/2021",
-    "Starred": false
-  },
-  "害": {
-    "Definition": "hài - to do harm to",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "02/01/2021",
-    "Starred": false
-  },
-  "酒": {
-    "Definition": "jǐu - wine, liquor, spirits, CL:杯[bei1],瓶[ping2],罐[guan4],桶[tong3],缸[gang1]",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "02/01/2021",
-    "Starred": false
-  },
-  "邻": {
-    "Definition": "lín - neighbor",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "02/01/2021",
-    "Starred": false
-  },
-  "向": {
-    "Definition": "xiàng - direction, to face, to turn toward",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/01/2021",
-    "Starred": false
-  },
-  "该": {
-    "Definition": "gāi - should; ought to",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/01/2021",
-    "Starred": false
-  },
-  "算": {
-    "Definition": "suàn - to calculate",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/01/2021",
-    "Starred": false
-  },
-  "半": {
-    "Definition": "bàn - half; half an hour",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/01/2021",
-    "Starred": false
-  },
-  "春": {
-    "Definition": "chūn - spring",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/01/2021",
-    "Starred": false
-  },
-  "园": {
-    "Definition": "yuán - garden, park",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/01/2021",
-    "Starred": false
-  },
-  "净": {
-    "Definition": "jìng - clean",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/01/2021",
-    "Starred": false
-  },
-  "梯": {
-    "Definition": "tī - ladder, stairs",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/01/2021",
-    "Starred": false
-  },
-  "瘦": {
-    "Definition": "shòu - thin; slim (usually of a person or animal); lean",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/01/2021",
-    "Starred": false
-  },
-  "裤": {
-    "Definition": "kù - pants",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/01/2021",
-    "Starred": false
-  },
-  "物": {
-    "Definition": "wù - thing; matter",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "13/01/2021",
-    "Starred": false
-  },
-  "张": {
-    "Definition": "zhāng - (measure word for flat objects, paper, pictures, etc.)",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "13/01/2021",
-    "Starred": false
-  },
-  "办": {
-    "Definition": "bàn - to manage",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "13/01/2021",
-    "Starred": false
-  },
-  "故": {
-    "Definition": "gù - incident (e.g 事故), intentionally",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "13/01/2021",
-    "Starred": false
-  },
-  "假": {
-    "Definition": "jià - vacation",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "13/01/2021",
-    "Starred": false
-  },
-  "姨": {
-    "Definition": "yí - aunt",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "13/01/2021",
-    "Starred": false
-  },
-  "裙": {
-    "Definition": "qún - skirt",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "13/01/2021",
-    "Starred": false
-  },
-  "空": {
-    "Definition": "kòng/kōng - free time, sky, air",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "24/01/2021",
-    "Starred": false
-  },
-  "包": {
-    "Definition": "bāo - bag; sack; bundle; package",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "24/01/2021",
-    "Starred": false
-  },
-  "箱": {
-    "Definition": "xiāng - box; case",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "24/01/2021",
-    "Starred": false
-  },
-  "种": {
-    "Definition": "zhǒng - (measure word for kinds, sorts, types)",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "25/01/2021",
-    "Starred": false
-  },
-  "位": {
-    "Definition": "wèi - (polite measure word for people)",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "25/01/2021",
-    "Starred": false
-  },
-  "声": {
-    "Definition": "shēng - sound, voice, tone, noise, classifier for sounds",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "25/01/2021",
-    "Starred": false
-  },
-  "愿": {
-    "Definition": "yuàn - wish; hope",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "25/01/2021",
-    "Starred": false
-  },
-  "差": {
-    "Definition": "chà - to fall short of",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "25/01/2021",
-    "Starred": false
-  },
-  "啊": {
-    "Definition": "a - (a sentence-final particle of exlamation, interrogation, etc.)",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "25/01/2021",
-    "Starred": false
-  },
-  "画": {
-    "Definition": "huà - to draw, picture, painting, CL:幅[fu2],張|张[zhang1]",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "25/01/2021",
-    "Starred": false
-  },
-  "礼": {
-    "Definition": "lǐ - gift; ceremony",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "25/01/2021",
-    "Starred": false
-  },
-  "迎": {
-    "Definition": "yíng - to welcome",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "25/01/2021",
-    "Starred": false
-  },
-  "秋": {
-    "Definition": "qiū - fall",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "25/01/2021",
-    "Starred": false
-  },
-  "甜": {
-    "Definition": "tián - sweet",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "25/01/2021",
-    "Starred": false
-  },
-  "主": {
-    "Definition": "zhǔ - owner, master, host",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "21/03/2021",
-    "Starred": false
-  },
-  "跟": {
-    "Definition": "gēn - with",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "21/03/2021",
-    "Starred": false
-  },
-  "般": {
-    "Definition": "bān - 一般",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "21/03/2021",
-    "Starred": false
-  },
-  "绿": {
-    "Definition": "lv̀ - green",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "21/03/2021",
-    "Starred": false
-  },
-  "爬": {
-    "Definition": "pá - to crawl, to climb",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "21/03/2021",
-    "Starred": false
-  },
-  "发": {
-    "Definition": "fā - to emit; to issue",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "23/03/2021",
-    "Starred": false
-  },
-  "其": {
-    "Definition": "qí - his, her, its, their",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "23/03/2021",
-    "Starred": false
-  },
-  "加": {
-    "Definition": "jiā - to add",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "23/03/2021",
-    "Starred": false
-  },
-  "平": {
-    "Definition": "píng - level; even",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "23/03/2021",
-    "Starred": false
-  },
-  "更": {
-    "Definition": "gèng - even more",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "23/03/2021",
-    "Starred": false
-  },
-  "界": {
-    "Definition": "jiè - boundary, scope",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "23/03/2021",
-    "Starred": false
-  },
-  "像": {
-    "Definition": "xiàng - to be like; to look like; to take after, portrait",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "23/03/2021",
-    "Starred": false
-  },
-  "级": {
-    "Definition": "jí - level; rank",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "23/03/2021",
-    "Starred": false
-  },
-  "查": {
-    "Definition": "chá - to look up",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "23/03/2021",
-    "Starred": false
-  },
-  "轻": {
-    "Definition": "qīng - light, gentle, soft",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "23/03/2021",
-    "Starred": false
-  },
-  "刻": {
-    "Definition": "kè - quarter (of an hour)",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "23/03/2021",
-    "Starred": false
-  },
-  "层": {
-    "Definition": "céng - layer, floor (of a building)",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "23/03/2021",
-    "Starred": false
-  },
-  "婚": {
-    "Definition": "hūn - to marry, marriage",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "23/03/2021",
-    "Starred": false
-  },
-  "健": {
-    "Definition": "jiàn - healthy",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "23/03/2021",
-    "Starred": false
-  },
-  "冒": {
-    "Definition": "mào - to belch; to emit",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "23/03/2021",
-    "Starred": false
-  },
-  "冬": {
-    "Definition": "dōng - winter",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "23/03/2021",
-    "Starred": false
-  },
-  "邮": {
-    "Definition": "yóu - mail; post",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "23/03/2021",
-    "Starred": false
-  },
-  "胖": {
-    "Definition": "pàng - fat",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "23/03/2021",
-    "Starred": false
-  },
-  "碗": {
-    "Definition": "wǎn - bowl",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "23/03/2021",
-    "Starred": false
-  },
-  "衬": {
-    "Definition": "chèn - lining",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "23/03/2021",
-    "Starred": false
-  },
-  "而": {
-    "Definition": "ér - and, but, if",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "于": {
-    "Definition": "yú - in, from, to",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "方": {
-    "Definition": "fāng - square; method",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "如": {
-    "Definition": "rú - as, as if, such as",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "理": {
-    "Definition": "lǐ - reason; in good order",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "只": {
-    "Definition": "zhǐ - only",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "重": {
-    "Definition": "zhòng - heavy; serious",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "被": {
-    "Definition": "bèi - by, quilt",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "或": {
-    "Definition": "huò - or",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "信": {
-    "Definition": "xìn - letter (correspondance)",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "提": {
-    "Definition": "tí - to lift",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "变": {
-    "Definition": "biàn - to change",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "安": {
-    "Definition": "ān - calm; at ease",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "才": {
-    "Definition": "cái - not until; only then",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "决": {
-    "Definition": "jué - to decide, to determine",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "风": {
-    "Definition": "fēng - wind, CL:陣|阵[zhen4],絲|丝[si1]",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "元": {
-    "Definition": "yuán - (measure word for unit of Chinese currency); yuan",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "需": {
-    "Definition": "xū - to require, to need",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "满": {
-    "Definition": "mǎn - full, filled, packed",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "越": {
-    "Definition": "yuè - to exceed",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "容": {
-    "Definition": "róng - to allow; to tolerate",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "易": {
-    "Definition": "yì - easy",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "阿": {
-    "Definition": "ā - (a prefix)",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "周": {
-    "Definition": "zhōu - week, a surname",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "参": {
-    "Definition": "cān - to join, to partake",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "音": {
-    "Definition": "yīn - sound",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "讲": {
-    "Definition": "jiǎng - to speak, to explain",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "奇": {
-    "Definition": "qí - strange, odd, weird, wonderful",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "双": {
-    "Definition": "shuāng - (measure word for a pair)",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "船": {
-    "Definition": "chuán - boat, vessel, ship, CL:條|条[tiao2],艘[sou1],隻|只[zhi1]",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "刚": {
-    "Definition": "gāng - just; only a short while ago",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "久": {
-    "Definition": "jǐu - long (of time)",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "阳": {
-    "Definition": "yáng - sun",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "简": {
-    "Definition": "jiǎn - simple",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "担": {
-    "Definition": "dān - to be burdened with",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "皮": {
-    "Definition": "pí - leather, skin, fur, CL:張|张[zhang1]",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "银": {
-    "Definition": "yín - silver",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "怪": {
-    "Definition": "guài - strange",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "铁": {
-    "Definition": "tiě - iron",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "换": {
-    "Definition": "huàn - to exchange; to change",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "楼": {
-    "Definition": "lóu - multi-storied building; floor (of a multi-level building)",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "耳": {
-    "Definition": "ěr - ear",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "词": {
-    "Definition": "cí - word",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "练": {
-    "Definition": "liàn - to drill",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "典": {
-    "Definition": "diǎn - standard",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "忘": {
-    "Definition": "wàng - to forget",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "赛": {
-    "Definition": "sài - game; match; competition",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "冰": {
-    "Definition": "bīng - ice",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "努": {
-    "Definition": "nǔ - to exert, to strive",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "街": {
-    "Definition": "jiē - street, CL:條|条[tiao2]",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "灯": {
-    "Definition": "dēng - light",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "末": {
-    "Definition": "mò - end",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "蓝": {
-    "Definition": "lán - blue",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "哭": {
-    "Definition": "kū - to cry; to weep",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "惯": {
-    "Definition": "guàn - accustomed to, used to, indulge, to spoil (a child)",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "骑": {
-    "Definition": "qí - to ride (an animal or bike)",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "舒": {
-    "Definition": "shū - to smooth out, stretch, relax",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "绩": {
-    "Definition": "jì - merit, accomplishment",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "朵": {
-    "Definition": "duǒ - measure word for flower, clouds",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "瓶": {
-    "Definition": "píng - (measure word for bottles); bottle",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "疼": {
-    "Definition": "téng - to be painful",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "熊": {
-    "Definition": "xióng - bear",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "炼": {
-    "Definition": "liàn - do exercise, smelt",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "饿": {
-    "Definition": "è - hungry",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "聊": {
-    "Definition": "liáo - to chat",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "渴": {
-    "Definition": "kě - thirsty",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "饱": {
-    "Definition": "bǎo - to eat till full, satisfied",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "伞": {
-    "Definition": "sǎn - umbrella",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "糕": {
-    "Definition": "gāo - cake, pudding",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "锻": {
-    "Definition": "duàn - to forge",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "澡": {
-    "Definition": "zǎo - bath",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "09/04/2021",
-    "Starred": false
-  },
-  "解": {
-    "Definition": "jiě - to untie (解开)",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "13/05/2021",
-    "Starred": true
-  },
-  "结": {
-    "Definition": "jié - to tie, to bind, knot",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "13/05/2021",
-    "Starred": true
-  },
-  "市": {
-    "Definition": "shì - city",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "13/05/2021",
-    "Starred": true
-  },
-  "照": {
-    "Definition": "zhào - photograph; to illuminate; to shine",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "13/05/2021",
-    "Starred": false
-  },
-  "须": {
-    "Definition": "xū - beard, mustache",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "13/05/2021",
-    "Starred": false
-  },
-  "除": {
-    "Definition": "chú - apart from",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "13/05/2021",
-    "Starred": true
-  },
-  "急": {
-    "Definition": "jí - urgent, pressing, worried",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "13/05/2021",
-    "Starred": true
-  },
-  "环": {
-    "Definition": "huán - ring, surround",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "13/05/2021",
-    "Starred": true
-  },
-  "检": {
-    "Definition": "jiǎn - to inspect",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "13/05/2021",
-    "Starred": true
-  },
-  "顾": {
-    "Definition": "gù - to look after; to attend to",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "13/05/2021",
-    "Starred": true
-  },
-  "旧": {
-    "Definition": "jìu - old",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "13/05/2021",
-    "Starred": true
-  },
-  "择": {
-    "Definition": "zé - to select, to differentiate",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "13/05/2021",
-    "Starred": true
-  },
-  "借": {
-    "Definition": "jiè - to borrow, to lend",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "13/05/2021",
-    "Starred": true
-  },
-  "戏": {
-    "Definition": "xì - drama, play, show, CL:出[chu1],場|场[chang3],臺|台[tai2]",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "13/05/2021",
-    "Starred": true
-  },
-  "烧": {
-    "Definition": "shāo - to burn; to set fire to; to cook",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "13/05/2021",
-    "Starred": true
-  },
-  "季": {
-    "Definition": "jì - season",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "13/05/2021",
-    "Starred": true
-  },
-  "腿": {
-    "Definition": "tǔi - hip bone",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "13/05/2021",
-    "Starred": true
-  },
-  "迟": {
-    "Definition": "chí - late, delayed, slow",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "13/05/2021",
-    "Starred": true
-  },
-  "刮": {
-    "Definition": "guā - to blow (of the wind)",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "13/05/2021",
-    "Starred": true
-  },
-  "极": {
-    "Definition": "jí - extremely",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "14/05/2021",
-    "Starred": false
-  },
-  "爱好": {
-    "Definition": "àihǎo - to like, to take pleasure in, interest, hobby",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "10/05/2022",
-    "Starred": false
-  },
-  "安静": {
-    "Definition": "ānjìng - quiet",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "10/05/2022",
-    "Starred": false
-  },
-  "办法": {
-    "Definition": "bànfǎ - method; way",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "10/05/2022",
-    "Starred": false
-  },
-  "帮忙": {
-    "Definition": "bāngmáng - to help, to lend a hand, to do a favor",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "10/05/2022",
-    "Starred": false
-  },
-  "北方": {
-    "Definition": "běifāng - north, the northern part a country",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "10/05/2022",
-    "Starred": false
-  },
-  "比较": {
-    "Definition": "bǐjiào - to compare, to contrast, comparatively, relatively",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "笔记本": {
-    "Definition": "bǐjìběn - notebook (stationery), CL:本[ben3], notebook (computing)",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "别人": {
-    "Definition": "biérén - other people, others, other person",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "冰箱": {
-    "Definition": "bīngxiāng - refrigerator",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "超市": {
-    "Definition": "chāoshì - supermarket (coll.)",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "成绩": {
-    "Definition": "chéngjī - achievement, performance records, grades",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "除了": {
-    "Definition": "chúle - besides, apart from (... also...), in addition to, except (for)",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "词典": {
-    "Definition": "cídiǎn - dictionary, CL:部[bu4],本[ben3]",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "打算": {
-    "Definition": "dǎsuàn - to plan; plan",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "当然": {
-    "Definition": "dāngrán - of course",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "地方": {
-    "Definition": "dìfang - place",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "地图": {
-    "Definition": "dìtú - map",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "锻炼": {
-    "Definition": "duànliàn - to engage in physical exercise, to work out, (fig.) to develop one's skills",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "多么": {
-    "Definition": "duōme - how (wonderful etc)",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "耳朵": {
-    "Definition": "ěrduo - ear, CL:隻|只[zhi1],個|个[ge4],對|对[dui4]",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "方便": {
-    "Definition": "fāngbiàn - convenient, suitable",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "附近": {
-    "Definition": "fùjìn - vicinity; nieghbourhood; nearby area",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "复习": {
-    "Definition": "fùxí - to review, to revise",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "干净": {
-    "Definition": "gānjìng - clean",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "感冒": {
-    "Definition": "gǎnmào - to have a cold",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "刚才": {
-    "Definition": "gāng cái - just now, a moment ago",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "个子": {
-    "Definition": "gèzi - height, stature, build, size",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "公斤": {
-    "Definition": "gōngjīn - kilogram (kg)",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "故事": {
-    "Definition": "gùshì - narrative, story, tale",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "关系": {
-    "Definition": "guānxì - relationship",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "关于": {
-    "Definition": "guānyú - pertaining to, concerning, with regard to",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "国家": {
-    "Definition": "guójiā - country, nation, state",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "过去": {
-    "Definition": "guòqù - the past",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "害怕": {
-    "Definition": "hàipà - to be afraid, to be scared",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "黄河": {
-    "Definition": "huánghé - Yellow River or Huang He",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "几乎": {
-    "Definition": "jīhū - almost, nearly, practically",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "10/05/2022",
-    "Starred": true
-  },
-  "记得": {
-    "Definition": "jìde - to remember",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "季节": {
-    "Definition": "jìjié - time, season, period",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "检查": {
-    "Definition": "jiǎnchá - to examine",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "简单": {
-    "Definition": "jiǎndān - simple",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "节目": {
-    "Definition": "jiémù - program, item (on a program), CL:臺|台[tai2],個|个[ge4],套[tao4]",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "节日": {
-    "Definition": "jiérì - holiday, festival",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "结婚": {
-    "Definition": "jiéhūn - to marry, to get married, CL:次[ci4]",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "结束": {
-    "Definition": "jiéshù - termination, to finish, to end, to conclude, to close",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "句子": {
-    "Definition": "jùzi - sentence",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "客人": {
-    "Definition": "kèrén - visitor, guest, customer, client, CL:位[wei4]",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "空调": {
-    "Definition": "kōngtiáo - air conditioning, CL:臺|台[tai2]",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "筷子": {
-    "Definition": "kuàizǐ - chopsticks, CL:對|对[dui4],根[gen1],把[ba3],雙|双[shuang1]",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "离开": {
-    "Definition": "líkāi - to depart, to leave",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "历史": {
-    "Definition": "lìshǐ - history, CL:門|门[men2],段[duan4]",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "练习": {
-    "Definition": "liànxí - to practice, exercise, drill, practice",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "邻居": {
-    "Definition": "línjū - neighbor, next door",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "留学": {
-    "Definition": "líuxué - to study abroad",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "马上": {
-    "Definition": "mǎshàng - immediately; right away",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "满意": {
-    "Definition": "mǎnyì - satisfied, pleased, to one's satisfaction",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "帽子": {
-    "Definition": "màozi - hat, cap, CL:頂|顶[ding3]",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "明白": {
-    "Definition": "míngbai - to understand, to realize",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "难过": {
-    "Definition": "nánguò - to feel sad, to feel unwell, (of life) to be difficult",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "年级": {
-    "Definition": "niánjí - grade, year (in school, college etc)",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "努力": {
-    "Definition": "nǔlì - great effort, to strive, to try hard",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "盘子": {
-    "Definition": "pánzi - tray, plate, dish",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "皮鞋": {
-    "Definition": "píxié - leather shoes",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "啤酒": {
-    "Definition": "píjǐu - beer, CL:杯[bei1],瓶[ping2],罐[guan4],桶[tong3],缸[gang1]",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "瓶子": {
-    "Definition": "píngzi - bottle",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "其实": {
-    "Definition": "qíshí - actually, in fact, really",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "起飞": {
-    "Definition": "qǐfēi - (of airplanes) to take off",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "请假": {
-    "Definition": "qǐngjià - to request leave of absence",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "然后": {
-    "Definition": "ránhòu - after, then (afterwards)",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "热情": {
-    "Definition": "rèqíng - cordial, enthusiastic, passionate",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "认为": {
-    "Definition": "rènwèi - to believe, to think, to consider, to feel",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "认真": {
-    "Definition": "rènzhēn - conscientious, earnest, serious, to take seriously",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "容易": {
-    "Definition": "róngyì - easy, likely",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "如果": {
-    "Definition": "rúguǒ - if, in case, in the event that",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "上网": {
-    "Definition": "shàngwǎng - to go online, browse Internet",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "数学": {
-    "Definition": "shùxué - mathematics, mathematical",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "太阳": {
-    "Definition": "tàiyáng - sun",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "提高": {
-    "Definition": "tígāo - to improve; to raise; to heighten",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "同事": {
-    "Definition": "tóngshì - colleague, co-worker, CL:個|个[ge4],位[wei4]",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "头发": {
-    "Definition": "tóufā - hair (on the head)",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "突然": {
-    "Definition": "tūrán - sudden, abrupt, unexpected",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "忘记": {
-    "Definition": "wàngjì - to forget",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "为了": {
-    "Definition": "wèile - for the sake of",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "习惯": {
-    "Definition": "xíguàn - habit, custom, usual practice, to be used to",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "洗澡": {
-    "Definition": "xǐzǎo - to bathe, to take a shower",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "小心": {
-    "Definition": "xiǎoxīn - to be careful",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "校长": {
-    "Definition": "xiàozhǎng - (college, university) president, headmaster, CL:個|个[ge4],位[wei4],名[ming2]",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "一边": {
-    "Definition": "yībiān - one side, either side, on the one hand, doing while",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "一共": {
-    "Definition": "yīgòng - altogether",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "一样": {
-    "Definition": "yíyàng - same, like, equal to, the same as, just like",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "一直": {
-    "Definition": "yīzhí - straight; continuously",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "以前": {
-    "Definition": "yǐqián - before, formerly, previous, ago",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "银行": {
-    "Definition": "yínháng - bank, CL:家[jia1]",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "应该": {
-    "Definition": "yīnggāi - ought to, should, must",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "影响": {
-    "Definition": "yǐngxiǎng - influence, effect, to influence",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "游戏": {
-    "Definition": "yóuxì - game, CL:場|场[chang3]",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "有名": {
-    "Definition": "yǒumíng - famous; well known",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "遇到": {
-    "Definition": "yùdào - to meet, to run into, to come across",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "照相机": {
-    "Definition": "zhàoxiāngjī - camera",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "中间": {
-    "Definition": "zhōngjiān - middle",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "中文": {
-    "Definition": "zhōngwén - Chinese language",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "终于": {
-    "Definition": "zhōngyú - at last, in the end, finally, eventually",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "重要": {
-    "Definition": "zhòngyào - important, significant, major",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "周末": {
-    "Definition": "zhōumò - weekend",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "自行车": {
-    "Definition": "zìxíngchē - bicycle, bike, CL:輛|辆[liang4]",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "总是": {
-    "Definition": "zǒngshì - always",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "最后": {
-    "Definition": "zùihòu - final, last, finally, ultimate",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
-    "Starred": false
-  },
-  "作业": {
-    "Definition": "zuòyè - school assignment, homework, work, task",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "28/06/2021",
+    "LastStudied": null,
     "Starred": false
   },
   "阿姨": {
@@ -2660,304 +14,70 @@
       "HSK3",
       "word"
     ],
-    "LastStudied": "30/06/2021",
+    "LastStudied": null,
     "Starred": false
   },
-  "必须": {
-    "Definition": "bìxū - to have to, must, compulsory, necessarily",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "30/06/2021",
-    "Starred": false
-  },
-  "衬衫": {
-    "Definition": "chènshān - shirt, blouse, CL:件[jian4]",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "30/06/2021",
-    "Starred": false
-  },
-  "力": {
-    "Definition": "lì - power",
+  "而": {
+    "Definition": "ér - and, but, if",
     "Tags": [
       "HSK3",
       "character"
     ],
-    "LastStudied": "30/06/2021",
+    "LastStudied": null,
     "Starred": false
   },
-  "动物": {
-    "Definition": "dòngwù - animal, CL:隻|只[zhi1],群[qun2]",
+  "爱好": {
+    "Definition": "àihǎo - to like, to take pleasure in, interest, hobby",
     "Tags": [
       "HSK3",
       "word"
     ],
-    "LastStudied": "30/06/2021",
+    "LastStudied": null,
     "Starred": false
   },
-  "化": {
-    "Definition": "huà - to transform; to influence (e.g. 化学 -- chemistry)",
+  "于": {
+    "Definition": "yú - in, from, to",
     "Tags": [
       "HSK3",
       "character"
     ],
-    "LastStudied": "30/06/2021",
+    "LastStudied": null,
     "Starred": false
   },
-  "黑板": {
-    "Definition": "hēibǎn - blackboard, CL:塊|块[kuai4]",
+  "安静": {
+    "Definition": "ānjìng - quiet",
     "Tags": [
       "HSK3",
       "word"
     ],
-    "LastStudied": "30/06/2021",
+    "LastStudied": null,
     "Starred": false
   },
-  "经过": {
-    "Definition": "jīngguò - to pass, to go through, process, course",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "30/06/2021",
-    "Starred": false
-  },
-  "经理": {
-    "Definition": "jīnglǐ - manager, director, CL:個|个[ge4],位[wei4],名[ming2]",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "30/06/2021",
-    "Starred": false
-  },
-  "年轻": {
-    "Definition": "niánqīng - young",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "30/06/2021",
-    "Starred": false
-  },
-  "选": {
-    "Definition": "xuǎn - to choose, to pick, to select, to elect",
+  "自": {
+    "Definition": "zì - self",
     "Tags": [
       "HSK3",
       "character"
     ],
-    "LastStudied": "30/06/2021",
+    "LastStudied": null,
     "Starred": false
   },
-  "其他": {
-    "Definition": "qítā - other, (sth or sb) else, the rest",
+  "办法": {
+    "Definition": "bànfǎ - method; way",
     "Tags": [
       "HSK3",
       "word"
     ],
-    "LastStudied": "30/06/2021",
+    "LastStudied": null,
     "Starred": false
   },
-  "留": {
-    "Definition": "líu - stay, to leave behind",
+  "发": {
+    "Definition": "fā - to emit; to issue",
     "Tags": [
       "HSK3",
       "character"
     ],
-    "LastStudied": "30/06/2021",
-    "Starred": false
-  },
-  "答": {
-    "Definition": "dá - reply",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/06/2021",
-    "Starred": false
-  },
-  "裙子": {
-    "Definition": "qúnzi - skirt, CL:條|条[tiao2]",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "30/06/2021",
-    "Starred": false
-  },
-  "境": {
-    "Definition": "jìng - border, boundary, circumstances",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/06/2021",
-    "Starred": false
-  },
-  "舒服": {
-    "Definition": "shūfu - comfortable",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "30/06/2021",
-    "Starred": false
-  },
-  "刷牙": {
-    "Definition": "shuāyá - to brush one's teeth",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "30/06/2021",
-    "Starred": false
-  },
-  "司机": {
-    "Definition": "sījī - chauffeur, driver",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "30/06/2021",
-    "Starred": false
-  },
-  "体育": {
-    "Definition": "tǐyù - sports, physical education",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "30/06/2021",
-    "Starred": false
-  },
-  "相信": {
-    "Definition": "xiāngxìn - to be convinced (that sth is true), to believe",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "30/06/2021",
-    "Starred": false
-  },
-  "行李箱": {
-    "Definition": "xínglǐxiāng - suitcase, baggage compartment",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "30/06/2021",
-    "Starred": false
-  },
-  "熊猫": {
-    "Definition": "xióngmāo - panda, CL:隻|只[zhi1]",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "30/06/2021",
-    "Starred": false
-  },
-  "需要": {
-    "Definition": "xūyào - to need, to want, to demand, to require, requirement, need",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "30/06/2021",
-    "Starred": false
-  },
-  "一般": {
-    "Definition": "yìbān - same, ordinary, so-so, common, general",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "30/06/2021",
-    "Starred": false
-  },
-  "音乐": {
-    "Definition": "yīnyuè - music, CL:張|张[zhang1],曲[qu3],段[duan4]",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "30/06/2021",
-    "Starred": false
-  },
-  "饮料": {
-    "Definition": "yǐnliào - beverage",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "30/06/2021",
-    "Starred": false
-  },
-  "愿意": {
-    "Definition": "yuànyì - to be willing",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "30/06/2021",
-    "Starred": false
-  },
-  "爷": {
-    "Definition": "yé - (respectful form of address for an elderly man)",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/06/2021",
-    "Starred": false
-  },
-  "主要": {
-    "Definition": "zhǔyào - main, principal, major, primary",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "30/06/2021",
-    "Starred": false
-  },
-  "自己": {
-    "Definition": "zìjǐ - oneself, one's own",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "30/06/2021",
-    "Starred": false
-  },
-  "最近": {
-    "Definition": "zùijìn - recently",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "30/06/2021",
-    "Starred": false
-  },
-  "帽": {
-    "Definition": "mào - hat, cap",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/06/2021",
-    "Starred": false
-  },
-  "蕉": {
-    "Definition": "jiāo - banana",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/06/2021",
+    "LastStudied": null,
     "Starred": false
   },
   "办公室": {
@@ -2966,331 +86,7 @@
       "HSK3",
       "word"
     ],
-    "LastStudied": "10/01/2022",
-    "Starred": false
-  },
-  "比赛": {
-    "Definition": "bǐsài - game; match; competition; to compete",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "10/01/2022",
-    "Starred": false
-  },
-  "聪明": {
-    "Definition": "cōngming - smart; bright; clever",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "10/01/2022",
-    "Starred": false
-  },
-  "应": {
-    "Definition": "yīng - should; ought to",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/01/2022",
-    "Starred": false
-  },
-  "相": {
-    "Definition": "xiāng - mutually",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/01/2022",
-    "Starred": false
-  },
-  "世": {
-    "Definition": "shì - life, age, generation",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/01/2022",
-    "Starred": false
-  },
-  "发现": {
-    "Definition": "fāxiàn - to find, to discover",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "10/01/2022",
-    "Starred": false
-  },
-  "感兴趣": {
-    "Definition": "gǎnxīngqù - to be interested",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "10/01/2022",
-    "Starred": false
-  },
-  "数": {
-    "Definition": "shù/shǔ - number, to count",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/01/2022",
-    "Starred": false
-  },
-  "刮风": {
-    "Definition": "guāfēng - to be windy",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "10/01/2022",
-    "Starred": false
-  },
-  "关心": {
-    "Definition": "guānxīn - to be concerned about, to care about",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "10/01/2022",
-    "Starred": false
-  },
-  "机会": {
-    "Definition": "jīhùi - opportunity, chance, occasion",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "10/01/2022",
-    "Starred": false
-  },
-  "经常": {
-    "Definition": "jīngcháng - frequently, constantly, regularly, often, day-to-day",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "10/01/2022",
-    "Starred": false
-  },
-  "花": {
-    "Definition": "huā - to spend, a flower",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/01/2022",
-    "Starred": false
-  },
-  "面包": {
-    "Definition": "miànbāo - bread, CL:片[pian4],袋[dai4],塊|块[kuai4]",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "10/01/2022",
-    "Starred": false
-  },
-  "奶奶": {
-    "Definition": "nǎinai - paternal grandmother",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "10/01/2022",
-    "Starred": false
-  },
-  "较": {
-    "Definition": "jiào - to compare, compared to, relatively",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/01/2022",
-    "Starred": false
-  },
-  "护": {
-    "Definition": "hù - to protect",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/01/2022",
-    "Starred": false
-  },
-  "终": {
-    "Definition": "zhōng - end, finish",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/01/2022",
-    "Starred": false
-  },
-  "黄": {
-    "Definition": "huáng - yellow",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/01/2022",
-    "Starred": false
-  },
-  "生气": {
-    "Definition": "shēngqì - to get angry",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "10/01/2022",
-    "Starred": false
-  },
-  "脸": {
-    "Definition": "liǎn - face",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/01/2022",
-    "Starred": false
-  },
-  "怕": {
-    "Definition": "pà - to fear; to be afraid of",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/01/2022",
-    "Starred": false
-  },
-  "卡": {
-    "Definition": "kǎ - card",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/01/2022",
-    "Starred": false
-  },
-  "坏": {
-    "Definition": "huài - bad",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/01/2022",
-    "Starred": false
-  },
-  "一定": {
-    "Definition": "yīdìng - certainly; definitely",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "10/01/2022",
-    "Starred": false
-  },
-  "鲜": {
-    "Definition": "xiān - fresh",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/01/2022",
-    "Starred": false
-  },
-  "注意": {
-    "Definition": "zhùyì - to take note of, to pay attention to",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "10/01/2022",
-    "Starred": false
-  },
-  "盘": {
-    "Definition": "pán - plate; dish",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/01/2022",
-    "Starred": false
-  },
-  "趣": {
-    "Definition": "qù - interest; delight; aspiration",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "10/01/2022",
-    "Starred": false
-  },
-  "菜单": {
-    "Definition": "càidān - menu, CL:份[fen4],張|张[zhang1]",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "13/01/2022",
-    "Starred": false
-  },
-  "裤子": {
-    "Definition": "kùzi - trousers, pants, CL:條|条[tiao2]",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "13/01/2022",
-    "Starred": false
-  },
-  "起来": {
-    "Definition": "qǐlái - ",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "13/01/2022",
-    "Starred": false
-  },
-  "同意": {
-    "Definition": "tóngyì - to agree, to consent, to approve",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "13/01/2022",
-    "Starred": false
-  },
-  "完成": {
-    "Definition": "wánchéng - to complete, to accomplish",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "13/01/2022",
-    "Starred": false
-  },
-  "图书馆": {
-    "Definition": "túshūguǎn - library, CL:家[jia1]",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "26/01/2022",
-    "Starred": false
-  },
-  "地": {
-    "Definition": "dì - ground; (particle)",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
+    "LastStudied": null,
     "Starred": false
   },
   "用": {
@@ -3299,448 +95,43 @@
       "HSK3",
       "character"
     ],
-    "LastStudied": "30/01/2022",
+    "LastStudied": null,
     "Starred": false
   },
-  "成": {
-    "Definition": "chéng - to become",
+  "帮忙": {
+    "Definition": "bāngmáng - to help, to lend a hand, to do a favor",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "行": {
+    "Definition": "xíng - all right; OK",
     "Tags": [
       "HSK3",
       "character"
     ],
-    "LastStudied": "30/01/2022",
+    "LastStudied": null,
     "Starred": false
   },
-  "法": {
-    "Definition": "fǎ - law; rule; method",
+  "北方": {
+    "Definition": "běifāng - north, the northern part a country",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "种": {
+    "Definition": "zhǒng - (measure word for kinds, sorts, types)",
     "Tags": [
       "HSK3",
       "character"
     ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "当": {
-    "Definition": "dāng - to serve as; to be",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "心": {
-    "Definition": "xīn - heart",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "实": {
-    "Definition": "shí - solid; reality (e.g. 事实的 -- fact)",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "头": {
-    "Definition": "tóu - head",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "文": {
-    "Definition": "wén - (written) language; script",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "总": {
-    "Definition": "zǒng - always, chief",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "目": {
-    "Definition": "mù - eye",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "接": {
-    "Definition": "jiē - to receive; to welcome, to go meet",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "山": {
-    "Definition": "shān - mountain, hill",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "难": {
-    "Definition": "nán - difficult",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "记": {
-    "Definition": "jì - record, to remember",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "南": {
-    "Definition": "nán - south",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "据": {
-    "Definition": "jù - according to",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "清": {
-    "Definition": "qīng - pure; clear",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "带": {
-    "Definition": "dài - to bring",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "根": {
-    "Definition": "gēn - root, basis, classifier for long slender objects, e.g. cigarettes",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "干": {
-    "Definition": "gān/gàn - dry",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "单": {
-    "Definition": "dān - single",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "调": {
-    "Definition": "tiáo/diào - to harmonize, to reconcile, to transfer",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "城": {
-    "Definition": "chéng - town",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "片": {
-    "Definition": "piàn - flat, thin piece",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "史": {
-    "Definition": "shǐ - history",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "李": {
-    "Definition": "lǐ - (a surname); plum",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "突": {
-    "Definition": "tū - sudden",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "注": {
-    "Definition": "zhù - to pour, to concentrate, to explain",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "河": {
-    "Definition": "hé - river, CL:條|条[tiao2],道[dao4]",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "拿": {
-    "Definition": "ná - to take; to get",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "居": {
-    "Definition": "jū - to reside, residence, classifier for bedrooms",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "树": {
-    "Definition": "shù - tree, CL:棵[ke1]",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "静": {
-    "Definition": "jìng - quiet",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "超": {
-    "Definition": "chāo - to exceed; to surpass",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "脚": {
-    "Definition": "jiǎo - foot",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "短": {
-    "Definition": "duǎn - short, brief",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "遇": {
-    "Definition": "yù - to meet, to encounter",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "附": {
-    "Definition": "fù - to attach; near",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "板": {
-    "Definition": "bǎn - board",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "辆": {
-    "Definition": "liàng - classifier for vehicles",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "叔": {
-    "Definition": "shū - uncle",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "扫": {
-    "Definition": "sǎo - to sweep",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "饮": {
-    "Definition": "yǐn - to drink",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "鞋": {
-    "Definition": "xié - shoes",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "聪": {
-    "Definition": "cōng - able to hear well",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "搬": {
-    "Definition": "bān - to move",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "斤": {
-    "Definition": "jīn - mass equal to 0.5 kg",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "衫": {
-    "Definition": "shān - shirt",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "30/01/2022",
-    "Starred": false
-  },
-  "万": {
-    "Definition": "wàn - ten thousand",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "02/02/2022",
-    "Starred": false
-  },
-  "句": {
-    "Definition": "jù - sentence, classifier for phrases or lines of verse",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "02/02/2022",
+    "LastStudied": null,
     "Starred": false
   },
   "鼻子": {
@@ -3749,7 +140,88 @@
       "HSK3",
       "word"
     ],
-    "LastStudied": "05/02/2022",
+    "LastStudied": null,
+    "Starred": false
+  },
+  "成": {
+    "Definition": "chéng - to become",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "比较": {
+    "Definition": "bǐjiào - to compare, to contrast, comparatively, relatively",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "方": {
+    "Definition": "fāng - square; method",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "比赛": {
+    "Definition": "bǐsài - game; match; competition; to compete",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "法": {
+    "Definition": "fǎ - law; rule; method",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "笔记本": {
+    "Definition": "bǐjìběn - notebook (stationery), CL:本[ben3], notebook (computing)",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "如": {
+    "Definition": "rú - as, as if, such as",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "必须": {
+    "Definition": "bìxū - to have to, must, compulsory, necessarily",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "当": {
+    "Definition": "dāng - to serve as; to be",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
     "Starred": false
   },
   "变化": {
@@ -3758,520 +230,7 @@
       "HSK3",
       "word"
     ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "参加": {
-    "Definition": "cānjiā - to participate, to take part, to join",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "城市": {
-    "Definition": "chéngshì - city, town, CL:座[zuo4]",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "迟到": {
-    "Definition": "chídào - to arrive late",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "打扫": {
-    "Definition": "dǎsǎo - to clean up (a room, apartment or house)",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "担心": {
-    "Definition": "dàn xīn - to worry",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "蛋糕": {
-    "Definition": "dàngāo - cake, CL:塊|块[kuai4]",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "地铁": {
-    "Definition": "dìtiě - subway, metro",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "电梯": {
-    "Definition": "diàntī - elevator, escalator, CL:臺|台[tai2],部[bu4]",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "电子邮件": {
-    "Definition": "diànzǐyóujiàn - email, CL:封[feng1],份[fen4]",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "发烧": {
-    "Definition": "fāshāo - to have a fever",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "放心": {
-    "Definition": "fàngxīn - to feel relieved, to feel reassured, to be at ease",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "根据": {
-    "Definition": "gēnjù - according to, based on",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "公园": {
-    "Definition": "gōng yuán - park (public garden)",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "还是": {
-    "Definition": "háishi - or, still, nevertheless, had better",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "后来": {
-    "Definition": "hòulái - afterwards, later",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "护照": {
-    "Definition": "hùzhào - passport",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "欢迎": {
-    "Definition": "huānyíng - to welcome",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "环境": {
-    "Definition": "huánjìng - environment, circumstances, surroundings",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "回答": {
-    "Definition": "húidá - to reply, to answer, the answer",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "会议": {
-    "Definition": "hùiyì - meeting, conference, CL:場|场[chang3],屆|届[jie4]",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "10/05/2022",
-    "Starred": true
-  },
-  "或者": {
-    "Definition": "huòzhě - or, possibly, maybe, perhaps",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "见面": {
-    "Definition": "jiànmian - to meet, to see each other, CL:次[ci4]",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "健康": {
-    "Definition": "jiànkāng - healthy; health",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "街道": {
-    "Definition": "jiēdào - street, CL:條|条[tiao2], subdistrict, residential district",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "解决": {
-    "Definition": "jiějué - to settle (a dispute), to resolve, to solve",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "决定": {
-    "Definition": "juédìng - to decide (to do something), to resolve, decision",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "可爱": {
-    "Definition": "kěài - adorable, cute, lovely",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "礼物": {
-    "Definition": "lǐwù - gift; present",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "聊天": {
-    "Definition": "liáotiān - to chat, to gossip",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "了解": {
-    "Definition": "liǎojiě - to understand, to realize, to find out",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "爬山": {
-    "Definition": "páshān - to climb a mountain",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "奇怪": {
-    "Definition": "qíguài - strange, odd",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "清楚": {
-    "Definition": "qīng chu - clear, to understand",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "声音": {
-    "Definition": "shēngyīn - voice, sound",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "世界": {
-    "Definition": "shìjiè - world",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "叔叔": {
-    "Definition": "shūshu - uncle",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "水平": {
-    "Definition": "shuǐpíng - level; standard",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "特别": {
-    "Definition": "tèbié - especially, special, particular, unusual",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "文化": {
-    "Definition": "wénhuà - culture",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "洗手间": {
-    "Definition": "xǐshǒujiān - toilet, lavatory, washroom",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "香蕉": {
-    "Definition": "xiāngjiāo - banana, CL:枝[zhi1],根[gen1],個|个[ge4],把[ba3]",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "新闻": {
-    "Definition": "xīnwén - news, CL:條|条[tiao2]",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "新鲜": {
-    "Definition": "xīnxiān - fresh (experience, food etc), freshness, novel, uncommon",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "信用卡": {
-    "Definition": "xìnyòngkǎ - credit card",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "选择": {
-    "Definition": "xuǎnzé - to select, to pick, choice, option",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "要求": {
-    "Definition": "yàoqíu - to request, to demand, CL:點|点[dian3]",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "爷爷": {
-    "Definition": "yéye - paternal grandfather",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "一会儿": {
-    "Definition": "yīhùier - a moment, a while, in a moment",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "月亮": {
-    "Definition": "yuèliàng - the moon",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "着急": {
-    "Definition": "zháojí - to worry, to feel anxious",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "照顾": {
-    "Definition": "zhàogu - to look after; to care for; to attend to",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "照片": {
-    "Definition": "zhàopiàn - photograph, picture, CL:張|张[zhang1],套[tao4],幅[fu2]",
-    "Tags": [
-      "HSK3",
-      "word"
-    ],
-    "LastStudied": "05/02/2022",
-    "Starred": false
-  },
-  "闻": {
-    "Definition": "wén - news, to smell",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "05/05/2022",
-    "Starred": false
-  },
-  "料": {
-    "Definition": "liào - material",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "08/05/2022",
-    "Starred": false
-  },
-  "历": {
-    "Definition": "lì - to experience, to undergo",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "08/05/2022",
-    "Starred": false
-  },
-  "求": {
-    "Definition": "qíu - to seek, to look for, to request",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "08/05/2022",
-    "Starred": false
-  },
-  "己": {
-    "Definition": "jǐ - self",
-    "Tags": [
-      "HSK3",
-      "character"
-    ],
-    "LastStudied": "08/05/2022",
+    "LastStudied": null,
     "Starred": false
   },
   "定": {
@@ -4280,7 +239,4048 @@
       "HSK3",
       "character"
     ],
-    "LastStudied": "08/05/2022",
+    "LastStudied": null,
+    "Starred": false
+  },
+  "别人": {
+    "Definition": "biérén - other people, others, other person",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "其": {
+    "Definition": "qí - his, her, its, their",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "冰箱": {
+    "Definition": "bīngxiāng - refrigerator",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "主": {
+    "Definition": "zhǔ - owner, master, host",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "菜单": {
+    "Definition": "càidān - menu, CL:份[fen4],張|张[zhang1]",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "理": {
+    "Definition": "lǐ - reason; in good order",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "参加": {
+    "Definition": "cānjiā - to participate, to take part, to join",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "心": {
+    "Definition": "xīn - heart",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "超市": {
+    "Definition": "chāoshì - supermarket (coll.)",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "只": {
+    "Definition": "zhǐ - only",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "衬衫": {
+    "Definition": "chènshān - shirt, blouse, CL:件[jian4]",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "实": {
+    "Definition": "shí - solid; reality (e.g. 事实的 -- fact)",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "成绩": {
+    "Definition": "chéngjī - achievement, performance records, grades",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "者": {
+    "Definition": "zhě - (componnent of 或者)",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "城市": {
+    "Definition": "chéngshì - city, town, CL:座[zuo4]",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "力": {
+    "Definition": "lì - power",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "迟到": {
+    "Definition": "chídào - to arrive late",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "把": {
+    "Definition": "bǎ - (measure word for bunches of things, and chairs)",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "除了": {
+    "Definition": "chúle - besides, apart from (... also...), in addition to, except (for)",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "又": {
+    "Definition": "yòu - right hand; again",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "词典": {
+    "Definition": "cídiǎn - dictionary, CL:部[bu4],本[ben3]",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "业": {
+    "Definition": "yè - occupation; profession",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "聪明": {
+    "Definition": "cōngming - smart; bright; clever",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "重": {
+    "Definition": "zhòng - heavy; serious",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "打扫": {
+    "Definition": "dǎsǎo - to clean up (a room, apartment or house)",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "物": {
+    "Definition": "wù - thing; matter",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "打算": {
+    "Definition": "dǎsuàn - to plan; plan",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "应": {
+    "Definition": "yīng - should; ought to",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "担心": {
+    "Definition": "dàn xīn - to worry",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "向": {
+    "Definition": "xiàng - direction, to face, to turn toward",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "蛋糕": {
+    "Definition": "dàngāo - cake, CL:塊|块[kuai4]",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "头": {
+    "Definition": "tóu - head",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "当然": {
+    "Definition": "dāngrán - of course",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "文": {
+    "Definition": "wén - (written) language; script",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "地方": {
+    "Definition": "dìfang - place",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "相": {
+    "Definition": "xiāng - mutually",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "地铁": {
+    "Definition": "dìtiě - subway, metro",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "被": {
+    "Definition": "bèi - by, quilt",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "地图": {
+    "Definition": "dìtú - map",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "或": {
+    "Definition": "huò - or",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "电梯": {
+    "Definition": "diàntī - elevator, escalator, CL:臺|台[tai2],部[bu4]",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "己": {
+    "Definition": "jǐ - self",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "电子邮件": {
+    "Definition": "diànzǐyóujiàn - email, CL:封[feng1],份[fen4]",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "加": {
+    "Definition": "jiā - to add",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "动物": {
+    "Definition": "dòngwù - animal, CL:隻|只[zhi1],群[qun2]",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "特": {
+    "Definition": "tè - special",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "锻炼": {
+    "Definition": "duànliàn - to engage in physical exercise, to work out, (fig.) to develop one's skills",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "信": {
+    "Definition": "xìn - letter (correspondance)",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "多么": {
+    "Definition": "duōme - how (wonderful etc)",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "化": {
+    "Definition": "huà - to transform; to influence (e.g. 化学 -- chemistry)",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "耳朵": {
+    "Definition": "ěrduo - ear, CL:隻|只[zhi1],個|个[ge4],對|对[dui4]",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "世": {
+    "Definition": "shì - life, age, generation",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "发烧": {
+    "Definition": "fāshāo - to have a fever",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "位": {
+    "Definition": "wèi - (polite measure word for people)",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "发现": {
+    "Definition": "fāxiàn - to find, to discover",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "声": {
+    "Definition": "shēng - sound, voice, tone, noise, classifier for sounds",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "方便": {
+    "Definition": "fāngbiàn - convenient, suitable",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "提": {
+    "Definition": "tí - to lift",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "放心": {
+    "Definition": "fàngxīn - to feel relieved, to feel reassured, to be at ease",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "解": {
+    "Definition": "jiě - to untie (解开)",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": true
+  },
+  "附近": {
+    "Definition": "fùjìn - vicinity; nieghbourhood; nearby area",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "口": {
+    "Definition": "kǒu - mouth",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "复习": {
+    "Definition": "fùxí - to review, to revise",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "平": {
+    "Definition": "píng - level; even",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "干净": {
+    "Definition": "gānjìng - clean",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "更": {
+    "Definition": "gèng - even more",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "感冒": {
+    "Definition": "gǎnmào - to have a cold",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "变": {
+    "Definition": "biàn - to change",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "感兴趣": {
+    "Definition": "gǎnxīngqù - to be interested",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "总": {
+    "Definition": "zǒng - always, chief",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "刚才": {
+    "Definition": "gāng cái - just now, a moment ago",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "数": {
+    "Definition": "shù/shǔ - number, to count",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "个子": {
+    "Definition": "gèzi - height, stature, build, size",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "安": {
+    "Definition": "ān - calm; at ease",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "根据": {
+    "Definition": "gēnjù - according to, based on",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "才": {
+    "Definition": "cái - not until; only then",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "公斤": {
+    "Definition": "gōngjīn - kilogram (kg)",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "结": {
+    "Definition": "jié - to tie, to bind, knot",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": true
+  },
+  "公园": {
+    "Definition": "gōng yuán - park (public garden)",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "目": {
+    "Definition": "mù - eye",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "故事": {
+    "Definition": "gùshì - narrative, story, tale",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "感": {
+    "Definition": "gǎn - to feel; to sense",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "刮风": {
+    "Definition": "guāfēng - to be windy",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "接": {
+    "Definition": "jiē - to receive; to welcome, to go meet",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "关系": {
+    "Definition": "guānxì - relationship",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "必": {
+    "Definition": "bì - certainly, must, will, necessarily",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "关心": {
+    "Definition": "guānxīn - to be concerned about, to care about",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "市": {
+    "Definition": "shì - city",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": true
+  },
+  "关于": {
+    "Definition": "guānyú - pertaining to, concerning, with regard to",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "直": {
+    "Definition": "zhí - straight",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "国家": {
+    "Definition": "guójiā - country, nation, state",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "山": {
+    "Definition": "shān - mountain, hill",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "过去": {
+    "Definition": "guòqù - the past",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "空": {
+    "Definition": "kòng/kōng - free time, sky, air",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "还是": {
+    "Definition": "háishi - or, still, nevertheless, had better",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "决": {
+    "Definition": "jué - to decide, to determine",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "害怕": {
+    "Definition": "hàipà - to be afraid, to be scared",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "马": {
+    "Definition": "mǎ - horse",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "黑板": {
+    "Definition": "hēibǎn - blackboard, CL:塊|块[kuai4]",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "界": {
+    "Definition": "jiè - boundary, scope",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "后来": {
+    "Definition": "hòulái - afterwards, later",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "放": {
+    "Definition": "fàng - to put, to place",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "护照": {
+    "Definition": "hùzhào - passport",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "像": {
+    "Definition": "xiàng - to be like; to look like; to take after, portrait",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "欢迎": {
+    "Definition": "huānyíng - to welcome",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "且": {
+    "Definition": "qiě - and, just",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "环境": {
+    "Definition": "huánjìng - environment, circumstances, surroundings",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "难": {
+    "Definition": "nán - difficult",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "黄河": {
+    "Definition": "huánghé - Yellow River or Huang He",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "记": {
+    "Definition": "jì - record, to remember",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "回答": {
+    "Definition": "húidá - to reply, to answer, the answer",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "南": {
+    "Definition": "nán - south",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "会议": {
+    "Definition": "hùiyì - meeting, conference, CL:場|场[chang3],屆|届[jie4]",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": true
+  },
+  "求": {
+    "Definition": "qíu - to seek, to look for, to request",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "或者": {
+    "Definition": "huòzhě - or, possibly, maybe, perhaps",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "据": {
+    "Definition": "jù - according to",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "几乎": {
+    "Definition": "jīhū - almost, nearly, practically",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": true
+  },
+  "张": {
+    "Definition": "zhāng - (measure word for flat objects, paper, pictures, etc.)",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "机会": {
+    "Definition": "jīhùi - opportunity, chance, occasion",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "该": {
+    "Definition": "gāi - should; ought to",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "记得": {
+    "Definition": "jìde - to remember",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "万": {
+    "Definition": "wàn - ten thousand",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "季节": {
+    "Definition": "jìjié - time, season, period",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "清": {
+    "Definition": "qīng - pure; clear",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "检查": {
+    "Definition": "jiǎnchá - to examine",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "带": {
+    "Definition": "dài - to bring",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "简单": {
+    "Definition": "jiǎndān - simple",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "风": {
+    "Definition": "fēng - wind, CL:陣|阵[zhen4],絲|丝[si1]",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "见面": {
+    "Definition": "jiànmian - to meet, to see each other, CL:次[ci4]",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "根": {
+    "Definition": "gēn - root, basis, classifier for long slender objects, e.g. cigarettes",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "健康": {
+    "Definition": "jiànkāng - healthy; health",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "干": {
+    "Definition": "gān/gàn - dry",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "街道": {
+    "Definition": "jiēdào - street, CL:條|条[tiao2], subdistrict, residential district",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "极": {
+    "Definition": "jí - extremely",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "节目": {
+    "Definition": "jiémù - program, item (on a program), CL:臺|台[tai2],個|个[ge4],套[tao4]",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "办": {
+    "Definition": "bàn - to manage",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "节日": {
+    "Definition": "jiérì - holiday, festival",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "议": {
+    "Definition": "yì - to comment on, to discuss, to suggest",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "结婚": {
+    "Definition": "jiéhūn - to marry, to get married, CL:次[ci4]",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "元": {
+    "Definition": "yuán - (measure word for unit of Chinese currency); yuan",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "结束": {
+    "Definition": "jiéshù - termination, to finish, to end, to conclude, to close",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "单": {
+    "Definition": "dān - single",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "解决": {
+    "Definition": "jiějué - to settle (a dispute), to resolve, to solve",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "调": {
+    "Definition": "tiáo/diào - to harmonize, to reconcile, to transfer",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "经常": {
+    "Definition": "jīngcháng - frequently, constantly, regularly, often, day-to-day",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "算": {
+    "Definition": "suàn - to calculate",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "经过": {
+    "Definition": "jīngguò - to pass, to go through, process, course",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "需": {
+    "Definition": "xū - to require, to need",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "经理": {
+    "Definition": "jīnglǐ - manager, director, CL:個|个[ge4],位[wei4],名[ming2]",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "花": {
+    "Definition": "huā - to spend, a flower",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "句子": {
+    "Definition": "jùzi - sentence",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "城": {
+    "Definition": "chéng - town",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "决定": {
+    "Definition": "juédìng - to decide (to do something), to resolve, decision",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "级": {
+    "Definition": "jí - level; rank",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "可爱": {
+    "Definition": "kěài - adorable, cute, lovely",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "复": {
+    "Definition": "fù - to repeat; to duplicate",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "客人": {
+    "Definition": "kèrén - visitor, guest, customer, client, CL:位[wei4]",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "满": {
+    "Definition": "mǎn - full, filled, packed",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "空调": {
+    "Definition": "kōngtiáo - air conditioning, CL:臺|台[tai2]",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "越": {
+    "Definition": "yuè - to exceed",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "裤子": {
+    "Definition": "kùzi - trousers, pants, CL:條|条[tiao2]",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "容": {
+    "Definition": "róng - to allow; to tolerate",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "筷子": {
+    "Definition": "kuàizǐ - chopsticks, CL:對|对[dui4],根[gen1],把[ba3],雙|双[shuang1]",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "照": {
+    "Definition": "zhào - photograph; to illuminate; to shine",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "离开": {
+    "Definition": "líkāi - to depart, to leave",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "须": {
+    "Definition": "xū - beard, mustache",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "礼物": {
+    "Definition": "lǐwù - gift; present",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "包": {
+    "Definition": "bāo - bag; sack; bundle; package",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "历史": {
+    "Definition": "lìshǐ - history, CL:門|门[men2],段[duan4]",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "片": {
+    "Definition": "piàn - flat, thin piece",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "练习": {
+    "Definition": "liànxí - to practice, exercise, drill, practice",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "史": {
+    "Definition": "shǐ - history",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "聊天": {
+    "Definition": "liáotiān - to chat, to gossip",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "乎": {
+    "Definition": "hū - because",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "了解": {
+    "Definition": "liǎojiě - to understand, to realize, to find out",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "查": {
+    "Definition": "chá - to look up",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "邻居": {
+    "Definition": "línjū - neighbor, next door",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "轻": {
+    "Definition": "qīng - light, gentle, soft",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "留学": {
+    "Definition": "líuxué - to study abroad",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "易": {
+    "Definition": "yì - easy",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "马上": {
+    "Definition": "mǎshàng - immediately; right away",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "除": {
+    "Definition": "chú - apart from",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": true
+  },
+  "满意": {
+    "Definition": "mǎnyì - satisfied, pleased, to one's satisfaction",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "阿": {
+    "Definition": "ā - (a prefix)",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "帽子": {
+    "Definition": "màozi - hat, cap, CL:頂|顶[ding3]",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "李": {
+    "Definition": "lǐ - (a surname); plum",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "面包": {
+    "Definition": "miànbāo - bread, CL:片[pian4],袋[dai4],塊|块[kuai4]",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "图": {
+    "Definition": "tú - picture; chart; drawing",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "明白": {
+    "Definition": "míngbai - to understand, to realize",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "历": {
+    "Definition": "lì - to experience, to undergo",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "奶奶": {
+    "Definition": "nǎinai - paternal grandmother",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "突": {
+    "Definition": "tū - sudden",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "难过": {
+    "Definition": "nánguò - to feel sad, to feel unwell, (of life) to be difficult",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "周": {
+    "Definition": "zhōu - week, a surname",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "年级": {
+    "Definition": "niánjí - grade, year (in school, college etc)",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "较": {
+    "Definition": "jiào - to compare, compared to, relatively",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "年轻": {
+    "Definition": "niánqīng - young",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "注": {
+    "Definition": "zhù - to pour, to concentrate, to explain",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "努力": {
+    "Definition": "nǔlì - great effort, to strive, to try hard",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "选": {
+    "Definition": "xuǎn - to choose, to pick, to select, to elect",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "爬山": {
+    "Definition": "páshān - to climb a mountain",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "响": {
+    "Definition": "xiǎng - sound, noisy",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "盘子": {
+    "Definition": "pánzi - tray, plate, dish",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "参": {
+    "Definition": "cān - to join, to partake",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "皮鞋": {
+    "Definition": "píxié - leather shoes",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "半": {
+    "Definition": "bàn - half; half an hour",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "啤酒": {
+    "Definition": "píjǐu - beer, CL:杯[bei1],瓶[ping2],罐[guan4],桶[tong3],缸[gang1]",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "节": {
+    "Definition": "jié - (measure word for class periods)",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "瓶子": {
+    "Definition": "píngzi - bottle",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "护": {
+    "Definition": "hù - to protect",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "其实": {
+    "Definition": "qíshí - actually, in fact, really",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "音": {
+    "Definition": "yīn - sound",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "其他": {
+    "Definition": "qítā - other, (sth or sb) else, the rest",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "跟": {
+    "Definition": "gēn - with",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "奇怪": {
+    "Definition": "qíguài - strange, odd",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "留": {
+    "Definition": "líu - stay, to leave behind",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "起飞": {
+    "Definition": "qǐfēi - (of airplanes) to take off",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "讲": {
+    "Definition": "jiǎng - to speak, to explain",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "起来": {
+    "Definition": "qǐlái - ",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "料": {
+    "Definition": "liào - material",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "清楚": {
+    "Definition": "qīng chu - clear, to understand",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "终": {
+    "Definition": "zhōng - end, finish",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "请假": {
+    "Definition": "qǐngjià - to request leave of absence",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "答": {
+    "Definition": "dá - reply",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "裙子": {
+    "Definition": "qúnzi - skirt, CL:條|条[tiao2]",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "黄": {
+    "Definition": "huáng - yellow",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "然后": {
+    "Definition": "ránhòu - after, then (afterwards)",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "奇": {
+    "Definition": "qí - strange, odd, weird, wonderful",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "热情": {
+    "Definition": "rèqíng - cordial, enthusiastic, passionate",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "段": {
+    "Definition": "duàn - paragraph, section, segment, classifier for periods of time",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "认为": {
+    "Definition": "rènwèi - to believe, to think, to consider, to feel",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "故": {
+    "Definition": "gù - incident (e.g 事故), intentionally",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "认真": {
+    "Definition": "rènzhēn - conscientious, earnest, serious, to take seriously",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "河": {
+    "Definition": "hé - river, CL:條|条[tiao2],道[dao4]",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "容易": {
+    "Definition": "róngyì - easy, likely",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "害": {
+    "Definition": "hài - to do harm to",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "如果": {
+    "Definition": "rúguǒ - if, in case, in the event that",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "双": {
+    "Definition": "shuāng - (measure word for a pair)",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "上网": {
+    "Definition": "shàngwǎng - to go online, browse Internet",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "境": {
+    "Definition": "jìng - border, boundary, circumstances",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "生气": {
+    "Definition": "shēngqì - to get angry",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "愿": {
+    "Definition": "yuàn - wish; hope",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "声音": {
+    "Definition": "shēngyīn - voice, sound",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "网": {
+    "Definition": "wǎng - net",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "世界": {
+    "Definition": "shìjiè - world",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "育": {
+    "Definition": "yù - to have children, to raise or bring up, to educate",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "叔叔": {
+    "Definition": "shūshu - uncle",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "船": {
+    "Definition": "chuán - boat, vessel, ship, CL:條|条[tiao2],艘[sou1],隻|只[zhi1]",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "舒服": {
+    "Definition": "shūfu - comfortable",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "脸": {
+    "Definition": "liǎn - face",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "数学": {
+    "Definition": "shùxué - mathematics, mathematical",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "刻": {
+    "Definition": "kè - quarter (of an hour)",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "刷牙": {
+    "Definition": "shuāyá - to brush one's teeth",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "刚": {
+    "Definition": "gāng - just; only a short while ago",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "水平": {
+    "Definition": "shuǐpíng - level; standard",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "般": {
+    "Definition": "bān - 一般",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "司机": {
+    "Definition": "sījī - chauffeur, driver",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "怕": {
+    "Definition": "pà - to fear; to be afraid of",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "太阳": {
+    "Definition": "tàiyáng - sun",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "假": {
+    "Definition": "jià - vacation",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "特别": {
+    "Definition": "tèbié - especially, special, particular, unusual",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "久": {
+    "Definition": "jǐu - long (of time)",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "提高": {
+    "Definition": "tígāo - to improve; to raise; to heighten",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "拿": {
+    "Definition": "ná - to take; to get",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "体育": {
+    "Definition": "tǐyù - sports, physical education",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "阳": {
+    "Definition": "yáng - sun",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "同事": {
+    "Definition": "tóngshì - colleague, co-worker, CL:個|个[ge4],位[wei4]",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "急": {
+    "Definition": "jí - urgent, pressing, worried",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": true
+  },
+  "同意": {
+    "Definition": "tóngyì - to agree, to consent, to approve",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "居": {
+    "Definition": "jū - to reside, residence, classifier for bedrooms",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "头发": {
+    "Definition": "tóufā - hair (on the head)",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "环": {
+    "Definition": "huán - ring, surround",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": true
+  },
+  "突然": {
+    "Definition": "tūrán - sudden, abrupt, unexpected",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "树": {
+    "Definition": "shù - tree, CL:棵[ke1]",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "图书馆": {
+    "Definition": "túshūguǎn - library, CL:家[jia1]",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "层": {
+    "Definition": "céng - layer, floor (of a building)",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "完成": {
+    "Definition": "wánchéng - to complete, to accomplish",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "句": {
+    "Definition": "jù - sentence, classifier for phrases or lines of verse",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "忘记": {
+    "Definition": "wàngjì - to forget",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "简": {
+    "Definition": "jiǎn - simple",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "为了": {
+    "Definition": "wèile - for the sake of",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "卡": {
+    "Definition": "kǎ - card",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "文化": {
+    "Definition": "wénhuà - culture",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "担": {
+    "Definition": "dān - to be burdened with",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "习惯": {
+    "Definition": "xíguàn - habit, custom, usual practice, to be used to",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "静": {
+    "Definition": "jìng - quiet",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "洗手间": {
+    "Definition": "xǐshǒujiān - toilet, lavatory, washroom",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "检": {
+    "Definition": "jiǎn - to inspect",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": true
+  },
+  "洗澡": {
+    "Definition": "xǐzǎo - to bathe, to take a shower",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "差": {
+    "Definition": "chà - to fall short of",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "相信": {
+    "Definition": "xiāngxìn - to be convinced (that sth is true), to believe",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "角": {
+    "Definition": "jiǎo - angle, corner",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "香蕉": {
+    "Definition": "xiāngjiāo - banana, CL:枝[zhi1],根[gen1],個|个[ge4],把[ba3]",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "皮": {
+    "Definition": "pí - leather, skin, fur, CL:張|张[zhang1]",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "小心": {
+    "Definition": "xiǎoxīn - to be careful",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "啊": {
+    "Definition": "a - (a sentence-final particle of exlamation, interrogation, etc.)",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "校长": {
+    "Definition": "xiàozhǎng - (college, university) president, headmaster, CL:個|个[ge4],位[wei4],名[ming2]",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "超": {
+    "Definition": "chāo - to exceed; to surpass",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "新闻": {
+    "Definition": "xīnwén - news, CL:條|条[tiao2]",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "银": {
+    "Definition": "yín - silver",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "新鲜": {
+    "Definition": "xīnxiān - fresh (experience, food etc), freshness, novel, uncommon",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "怪": {
+    "Definition": "guài - strange",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "信用卡": {
+    "Definition": "xìnyòngkǎ - credit card",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "香": {
+    "Definition": "xiāng - fragrant",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "行李箱": {
+    "Definition": "xínglǐxiāng - suitcase, baggage compartment",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "铁": {
+    "Definition": "tiě - iron",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "熊猫": {
+    "Definition": "xióngmāo - panda, CL:隻|只[zhi1]",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "草": {
+    "Definition": "cǎo - grass",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "需要": {
+    "Definition": "xūyào - to need, to want, to demand, to require, requirement, need",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "脚": {
+    "Definition": "jiǎo - foot",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "选择": {
+    "Definition": "xuǎnzé - to select, to pick, choice, option",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "酒": {
+    "Definition": "jǐu - wine, liquor, spirits, CL:杯[bei1],瓶[ping2],罐[guan4],桶[tong3],缸[gang1]",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "要求": {
+    "Definition": "yàoqíu - to request, to demand, CL:點|点[dian3]",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "顾": {
+    "Definition": "gù - to look after; to attend to",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": true
+  },
+  "爷爷": {
+    "Definition": "yéye - paternal grandfather",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "换": {
+    "Definition": "huàn - to exchange; to change",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "一般": {
+    "Definition": "yìbān - same, ordinary, so-so, common, general",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "闻": {
+    "Definition": "wén - news, to smell",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "一边": {
+    "Definition": "yībiān - one side, either side, on the one hand, doing while",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "坏": {
+    "Definition": "huài - bad",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "一定": {
+    "Definition": "yīdìng - certainly; definitely",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "楚": {
+    "Definition": "chǔ - clear; neat",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "一共": {
+    "Definition": "yīgòng - altogether",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "楼": {
+    "Definition": "lóu - multi-storied building; floor (of a multi-level building)",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "一会儿": {
+    "Definition": "yīhùier - a moment, a while, in a moment",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "画": {
+    "Definition": "huà - to draw, picture, painting, CL:幅[fu2],張|张[zhang1]",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "一样": {
+    "Definition": "yíyàng - same, like, equal to, the same as, just like",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "耳": {
+    "Definition": "ěr - ear",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "一直": {
+    "Definition": "yīzhí - straight; continuously",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "短": {
+    "Definition": "duǎn - short, brief",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "以前": {
+    "Definition": "yǐqián - before, formerly, previous, ago",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "遇": {
+    "Definition": "yù - to meet, to encounter",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "音乐": {
+    "Definition": "yīnyuè - music, CL:張|张[zhang1],曲[qu3],段[duan4]",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "康": {
+    "Definition": "kāng - healthy; affluent",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "银行": {
+    "Definition": "yínháng - bank, CL:家[jia1]",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "旧": {
+    "Definition": "jìu - old",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": true
+  },
+  "饮料": {
+    "Definition": "yǐnliào - beverage",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "春": {
+    "Definition": "chūn - spring",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "应该": {
+    "Definition": "yīnggāi - ought to, should, must",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "附": {
+    "Definition": "fù - to attach; near",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "影响": {
+    "Definition": "yǐngxiǎng - influence, effect, to influence",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "礼": {
+    "Definition": "lǐ - gift; ceremony",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "游戏": {
+    "Definition": "yóuxì - game, CL:場|场[chang3]",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "板": {
+    "Definition": "bǎn - board",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "有名": {
+    "Definition": "yǒumíng - famous; well known",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "婚": {
+    "Definition": "hūn - to marry, marriage",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "遇到": {
+    "Definition": "yùdào - to meet, to run into, to come across",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "鲜": {
+    "Definition": "xiān - fresh",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "愿意": {
+    "Definition": "yuànyì - to be willing",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "词": {
+    "Definition": "cí - word",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "月亮": {
+    "Definition": "yuèliàng - the moon",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "择": {
+    "Definition": "zé - to select, to differentiate",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": true
+  },
+  "着急": {
+    "Definition": "zháojí - to worry, to feel anxious",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "健": {
+    "Definition": "jiàn - healthy",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "照顾": {
+    "Definition": "zhàogu - to look after; to care for; to attend to",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "借": {
+    "Definition": "jiè - to borrow, to lend",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": true
+  },
+  "照片": {
+    "Definition": "zhàopiàn - photograph, picture, CL:張|张[zhang1],套[tao4],幅[fu2]",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "园": {
+    "Definition": "yuán - garden, park",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "照相机": {
+    "Definition": "zhàoxiāngjī - camera",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "牙": {
+    "Definition": "yá - tooth, ivory, CL:顆|颗[ke1]",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "中间": {
+    "Definition": "zhōngjiān - middle",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "束": {
+    "Definition": "shù - to bind, bunch, bundle, classifier for bunches",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "中文": {
+    "Definition": "zhōngwén - Chinese language",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "练": {
+    "Definition": "liàn - to drill",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "终于": {
+    "Definition": "zhōngyú - at last, in the end, finally, eventually",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "爷": {
+    "Definition": "yé - (respectful form of address for an elderly man)",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "重要": {
+    "Definition": "zhòngyào - important, significant, major",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "嘴": {
+    "Definition": "zuǐ - mouth",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "周末": {
+    "Definition": "zhōumò - weekend",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "戏": {
+    "Definition": "xì - drama, play, show, CL:出[chu1],場|场[chang3],臺|台[tai2]",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": true
+  },
+  "主要": {
+    "Definition": "zhǔyào - main, principal, major, primary",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "典": {
+    "Definition": "diǎn - standard",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "注意": {
+    "Definition": "zhùyì - to take note of, to pay attention to",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "盘": {
+    "Definition": "pán - plate; dish",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "自己": {
+    "Definition": "zìjǐ - oneself, one's own",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "忘": {
+    "Definition": "wàng - to forget",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "自行车": {
+    "Definition": "zìxíngchē - bicycle, bike, CL:輛|辆[liang4]",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "赛": {
+    "Definition": "sài - game; match; competition",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "总是": {
+    "Definition": "zǒngshì - always",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "趣": {
+    "Definition": "qù - interest; delight; aspiration",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "最后": {
+    "Definition": "zùihòu - final, last, finally, ultimate",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "迎": {
+    "Definition": "yíng - to welcome",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "最近": {
+    "Definition": "zùijìn - recently",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "冰": {
+    "Definition": "bīng - ice",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "作业": {
+    "Definition": "zuòyè - school assignment, homework, work, task",
+    "Tags": [
+      "HSK3",
+      "word"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "努": {
+    "Definition": "nǔ - to exert, to strive",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "绿": {
+    "Definition": "lv̀ - green",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "街": {
+    "Definition": "jiē - street, CL:條|条[tiao2]",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "灯": {
+    "Definition": "dēng - light",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "夏": {
+    "Definition": "xià - summer",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "秋": {
+    "Definition": "qiū - fall",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "末": {
+    "Definition": "mò - end",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "蓝": {
+    "Definition": "lán - blue",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "烧": {
+    "Definition": "shāo - to burn; to set fire to; to cook",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": true
+  },
+  "哭": {
+    "Definition": "kū - to cry; to weep",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "冒": {
+    "Definition": "mào - to belch; to emit",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "惯": {
+    "Definition": "guàn - accustomed to, used to, indulge, to spoil (a child)",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "鸟": {
+    "Definition": "niǎo - bird, CL:隻|只[zhi1],群[qun2]",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "季": {
+    "Definition": "jì - season",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": true
+  },
+  "鼻": {
+    "Definition": "bí - nose",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "腿": {
+    "Definition": "tǔi - hip bone",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": true
+  },
+  "迟": {
+    "Definition": "chí - late, delayed, slow",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": true
+  },
+  "辆": {
+    "Definition": "liàng - classifier for vehicles",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "净": {
+    "Definition": "jìng - clean",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "冬": {
+    "Definition": "dōng - winter",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "骑": {
+    "Definition": "qí - to ride (an animal or bike)",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "叔": {
+    "Definition": "shū - uncle",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "爬": {
+    "Definition": "pá - to crawl, to climb",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "扫": {
+    "Definition": "sǎo - to sweep",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "箱": {
+    "Definition": "xiāng - box; case",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "舒": {
+    "Definition": "shū - to smooth out, stretch, relax",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "绩": {
+    "Definition": "jì - merit, accomplishment",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "饮": {
+    "Definition": "yǐn - to drink",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "朵": {
+    "Definition": "duǒ - measure word for flower, clouds",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "鞋": {
+    "Definition": "xié - shoes",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "邮": {
+    "Definition": "yóu - mail; post",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "邻": {
+    "Definition": "lín - neighbor",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "聪": {
+    "Definition": "cōng - able to hear well",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "梯": {
+    "Definition": "tī - ladder, stairs",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "瓶": {
+    "Definition": "píng - (measure word for bottles); bottle",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "疼": {
+    "Definition": "téng - to be painful",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "熊": {
+    "Definition": "xióng - bear",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "帽": {
+    "Definition": "mào - hat, cap",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "炼": {
+    "Definition": "liàn - do exercise, smelt",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "搬": {
+    "Definition": "bān - to move",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "刷": {
+    "Definition": "shuā - to brush; to swipe",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "瘦": {
+    "Definition": "shòu - thin; slim (usually of a person or animal); lean",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "斤": {
+    "Definition": "jīn - mass equal to 0.5 kg",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "胖": {
+    "Definition": "pàng - fat",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "饿": {
+    "Definition": "è - hungry",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "聊": {
+    "Definition": "liáo - to chat",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "碗": {
+    "Definition": "wǎn - bowl",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "渴": {
+    "Definition": "kě - thirsty",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "饱": {
+    "Definition": "bǎo - to eat till full, satisfied",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "甜": {
+    "Definition": "tián - sweet",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "矮": {
+    "Definition": "ǎi - short",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "裤": {
+    "Definition": "kù - pants",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "衫": {
+    "Definition": "shān - shirt",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "伞": {
+    "Definition": "sǎn - umbrella",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "姨": {
+    "Definition": "yí - aunt",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "刮": {
+    "Definition": "guā - to blow (of the wind)",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": true
+  },
+  "糕": {
+    "Definition": "gāo - cake, pudding",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "裙": {
+    "Definition": "qún - skirt",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "衬": {
+    "Definition": "chèn - lining",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "锻": {
+    "Definition": "duàn - to forge",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "澡": {
+    "Definition": "zǎo - bath",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "啤": {
+    "Definition": "pí - beer",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "蕉": {
+    "Definition": "jiāo - banana",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
+    "Starred": false
+  },
+  "筷": {
+    "Definition": "kuài - chopstick",
+    "Tags": [
+      "HSK3",
+      "character"
+    ],
+    "LastStudied": null,
     "Starred": false
   }
 }
