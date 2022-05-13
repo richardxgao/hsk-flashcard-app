@@ -2,11 +2,7 @@
  A simple flashcard app to study Mandarin Chinese characters part of the Hanyu Shuiping Kaoshi (HSK) syllabus.
 
 ## Demo
-
-
-
 https://user-images.githubusercontent.com/39134434/168332687-803a0960-774a-4ef0-a1f4-b51da513ab8c.mov
-
 
 ## Features
 - 3000+ characters/words from HSK1 - HSK6.
