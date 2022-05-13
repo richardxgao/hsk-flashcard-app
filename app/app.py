@@ -38,6 +38,7 @@ class HSKFlashcardApp(Tk):
             'HSK6': DeckPage(self, deck='data/HSK6.json'),
         }
         self.show_page(self.pages['HomePage'])
+        self.protocol("WM_DELETE_WINDOW", self.exit_app)
 
     def show_page(self, frame):
         self.current_page = frame
