@@ -10,8 +10,8 @@ class HomePage(Frame):
 
         Label(self, text="HSK Flashcard App", font=("Arial", 72)).pack(expand=True)
 
-        # self.style = Style()
-        # self.style.configure("TButton", font=("Arial", 20), background="blue")
+        self.style = Style()
+        self.style.configure("TButton", font=("Arial", 20), background="blue")
 
         buttons_frame = Frame(self)
         buttons_frame.pack()
